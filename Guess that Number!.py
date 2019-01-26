@@ -1,7 +1,7 @@
 print("Welcome to Guess That Number!")
 input("(Enter to continue)")
 print("Try to guess the number that the computer is thinking of!")
-for i in range(1000):
+while True:
     difficulty = input("Choose the difficulty: 1: pick a number between 1 and 10. 2: 1-20. 3: 1-50. 4: 1-100.")
     if difficulty == "1":
         import random
