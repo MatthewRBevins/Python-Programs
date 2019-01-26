@@ -1,6 +1,5 @@
-#Some code from Python.org
-#Some code from StackOverflow.com
-#This is a work-in-progress
+
+#Some code help from StackOverflow.com
 #First variables:
 mainvar = 1
 tasdfasfdhjasdhfkjashdfk = 2
