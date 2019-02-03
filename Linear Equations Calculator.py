@@ -20,7 +20,7 @@ while tasdfasfdhjasdhfkjashdfk == 2:
     import random
     import sys
     #Intro:
-    print("Welcome to Linear Equation Calculator! Made by Matthew Bevins in Python 3.")
+    print("Welcome to Linear Equation Calculator! Made by MSGUY in Python 3.")
     input("(Enter)")
     print("Formula Finder: Instead of doing all the math to turn a line into an equation, just choose an equation and know two points on the line.")
     input("(Enter)")
