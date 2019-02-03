@@ -1,4 +1,5 @@
-print("Welcome to QuikCite® by MSGUY®!")
+#only the webpage citer works currently
+print("Welcome to QuikCite by MSGUY!")
 input("(ENTER)")
 print("if you do not have an answer to any question (author's name not given, etc.), just type \"no\".")
 input("(ENTER)")
