@@ -6,7 +6,7 @@ score = 0
 deleted = 0
 print("Welcome to states and capitals quiz, by MSGuy01!")
 input("Enter to start the game!")
-while i < len(states) + 1:
+while i < 50:
     if len(states) != 0:
         r = random.randint(0, len(states) - 1)
     choice = input("What is the capital of " + states[r] + "?: ")
