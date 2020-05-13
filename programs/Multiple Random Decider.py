@@ -1,3 +1,6 @@
+'''
+This program allows you to enter as many options as you want, and allows you to enter how many of the options should be randomly chosen.
+'''
 import random
 import sys
 moveOn2 = 0
