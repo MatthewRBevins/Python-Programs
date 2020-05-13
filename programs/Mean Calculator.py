@@ -1,4 +1,4 @@
-#Thanks StackOverflow for some of this code.
+
 next = 0
 print("Welcome to mean calculator on Python!")
 input("(ENTER)")
